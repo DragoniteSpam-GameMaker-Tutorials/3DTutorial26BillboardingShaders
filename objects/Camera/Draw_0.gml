@@ -59,7 +59,8 @@ with (Ball) {
     event_perform(ev_draw, 0);
 }
 
-
-
-
 shader_reset();
+
+with (obj_billboard) {
+    event_perform(ev_draw, 0);
+}
