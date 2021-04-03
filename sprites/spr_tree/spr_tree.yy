@@ -67,6 +67,7 @@
   "layers": [
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"bf1b075f-f3db-4a4b-837e-414c1870d77f","tags":[],"resourceType":"GMImageLayer",},
   ],
+  "nineSlice": null,
   "parent": {
     "name": "3D Tutorial 26 - Billboarding Shaders",
     "path": "3D Tutorial 26 - Billboarding Shaders.yyp",
