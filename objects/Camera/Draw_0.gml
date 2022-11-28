@@ -55,10 +55,6 @@ matrix_set(matrix_world, matrix_build(200, 200, 0, 0, 0, 0, 2, 2, 2));
 vertex_submit(vb_sphere, pr_trianglelist, -1);
 matrix_set(matrix_world, matrix_build_identity());
 
-with (Ball) {
-    event_perform(ev_draw, 0);
-}
-
 shader_reset();
 
 with (obj_billboard) {
